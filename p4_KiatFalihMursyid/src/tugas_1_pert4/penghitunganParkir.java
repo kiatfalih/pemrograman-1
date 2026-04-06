@@ -35,18 +35,10 @@ public class penghitunganParkir {
       totalBiaya = tarifAwal + (lamaParkir - 1) * tarifPerJam;
     }
 
-    double diskon = 0;
-    if(lamaParkir > 10){
-      diskon = totalBiaya * 0.1;
-      totalBiaya -= diskon;
-    }
-
     System.out.println("===============================");
     System.out.println("Jenis kendaraan: " + jenisKendaraan);
     System.out.println("Lama parkir: " + lamaParkir + " jam");
-    System.out.println("Total biaya sebelum diskon: " + (totalBiaya + diskon));
-    System.out.println("Diskon: " + diskon);
-    System.out.println("Total biaya setelah diskon: " + totalBiaya);
+    System.out.println("Total biaya: " + totalBiaya);
     System.out.println("===============================");
     System.out.println("Terima kasih telah menggunakan layanan parkir kami!");
   }
