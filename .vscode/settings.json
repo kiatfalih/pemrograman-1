@@ -1,9 +1,9 @@
 {
   "java.project.sourcePaths": [
-    "p5_KiatFalihMursyid/src",
+    "p7_KiatFalihMursyid/src",
     "p4_KiatFalihMursyid/src",
     "p2_KiatFalihMursyid/src",
-    "p7_KiatFalihMursyid/src/"
+    "ngapainkek/src"
   ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"],
