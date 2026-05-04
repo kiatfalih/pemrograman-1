@@ -3,8 +3,7 @@
     "p8_KiatFalihMursyid/src",
     "p7_KiatFalihMursyid/src",
     "p4_KiatFalihMursyid/src",
-    "p2_KiatFalihMursyid/src",
-    "p9_KiatFalih Mursyid/src"
+    "p2_KiatFalihMursyid/src"
   ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"],
